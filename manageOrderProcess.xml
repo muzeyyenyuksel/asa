@@ -1,0 +1,6 @@
+<manageOrderProcessRequest>
+    <subscriptionId>12</subscriptionId>
+</manageOrderProcessRequest>
+<manageOrderProcessResponse>
+    <Result>Example</Result>
+</manageOrderProcessResponse>
